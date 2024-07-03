@@ -23,3 +23,10 @@ This project aims to give users visible feedback regarding the strength, length,
 **1. HTML:** HTML markup language is used.   
 **2. CSS:** CSS is used for providing styling.   
 **3. Javascript:** JQUERY libraries are used along with a bunch of Regular Expressions.   
+
+
+
+![output-1](https://github.com/Jayaraj1294/Codtech-Task1/assets/146413812/f884f595-bbe5-4028-8754-e840c048300f)
+![output-2](https://github.com/Jayaraj1294/Codtech-Task1/assets/146413812/0cc49137-bb6f-417d-bfd1-25df172b8b04)
+![output-3](https://github.com/Jayaraj1294/Codtech-Task1/assets/146413812/3401589f-b470-419f-bc80-98ab876baed3)
+
