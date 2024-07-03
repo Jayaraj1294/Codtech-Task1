@@ -1,4 +1,4 @@
-/* This is the Javacript file of the task-1 (Password strength enumerator) */
+/* This is the external Javacript file of the task-1 (Password strength enumerator) */
 
 let baseScore = 0;
 let score = 0;
