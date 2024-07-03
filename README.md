@@ -1,8 +1,8 @@
-**Name:** JAYARAJ J PILLAI
-**Company:** CODTECH IT SOLUTIONS
-**ID:** CT4CSEH3081
-**Domain:** CYBER SECURITY & ETHICAL HACKING
-**Mentor:** NEELA SANTHOSH KUMAR
+**Name:** JAYARAJ J PILLAI   
+**Company:** CODTECH IT SOLUTIONS   
+**ID:** CT4CSEH3081   
+**Domain:** CYBER SECURITY & ETHICAL HACKING   
+**Mentor:** NEELA SANTHOSH KUMAR   
 
 ## Overview of the Project
 
@@ -20,6 +20,6 @@ This project aims to give users visible feedback regarding the strength, length,
    improved.
 
 ### Technologies used
-**HTML:** HTML markup language is used.
-**CSS:** CSS is used for providing styling.
-**Javascript:** JQUERY libraries are used along with a bunch of Regular Expressions.
+**1. HTML:** HTML markup language is used.   
+**2. CSS:** CSS is used for providing styling.   
+**3. Javascript:** JQUERY libraries are used along with a bunch of Regular Expressions.   
